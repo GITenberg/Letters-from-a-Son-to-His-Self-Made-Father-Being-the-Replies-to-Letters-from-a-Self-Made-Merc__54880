@@ -1,16 +1,21 @@
 _repo: Letters-from-a-Son-to-His-Self-Made-Father-Being-the-Replies-to-Letters-from-a-Self-Made-Merc__54880
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Kulz, Fred
     gutenberg_agent_id: '48085'
     url: http://www.gutenberg.org/2009/agents/48085
+covers:
+- cover_type: archival
+  image_path: 54880-h/images/cover.jpg
 creator:
   author:
     agent_name: Merriman, Charles Eustace
     gutenberg_agent_id: '48084'
     url: http://www.gutenberg.org/2009/agents/48084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54880#Letters-from-a-Son-to-His-Self-Made-Father-Being-the-Replies-to-Letters-from-a-Self-Made-Merc_
 gutenberg_issued: '2017-06-10'
 gutenberg_type: Text
 identifiers:
